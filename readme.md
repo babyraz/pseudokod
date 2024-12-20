@@ -11,6 +11,7 @@ Om inte, visa felmeddelande och be användaren fylla i ett nytt värde
 Räkna ut Summa x (1+Dricks) / Antal och spara i variabeln Resultat
 
 Skriv ut “Varje person ska betala (Resultat) kr”
+
 <img width="546" alt="Screenshot 2024-12-20 at 08 39 20" src="https://github.com/user-attachments/assets/cdb78cc4-ac92-40e5-a02d-e9a8a3d50d1c" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Pseudokod: Lewis Caroll Word Puzzle
